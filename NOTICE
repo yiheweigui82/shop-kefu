@@ -1,0 +1,47 @@
+shop-kefu
+Copyright (c) 2026 yiheweigui82 <yiheweigui82@users.noreply.github.com>
+
+本文件用于明确本项目的归属与作者署名要求。
+（MIT 许可证本身并未要求 NOTICE 文件，此文件为作者额外声明，与 LICENSE 不冲突。）
+
+────────────────────────────────────────
+归属声明
+────────────────────────────────────────
+
+本项目由 yiheweigui82 独立开发与维护。
+
+· 项目主页 / 反馈渠道：https://github.com/yiheweigui82/shop-kefu
+· 交流与合作：yiheweigui82@users.noreply.github.com
+
+────────────────────────────────────────
+使用本项目时，请保留以下署名
+────────────────────────────────────────
+
+依据 LICENSE（MIT）中的条款，任何对本项目的使用、复制、修改、合并、
+发布、分发、再授权或销售，均须：
+
+1. 保留 `LICENSE` 文件全文；
+2. 保留本 `NOTICE` 文件；
+3. 在源码中保留原始版权声明；
+4. 若在你的软件/服务中使用了本项目的**实质性部分**，请在
+   「关于」「致谢」「开源许可」等可被使用者看到的位置，
+   注明本项目名称与作者。
+
+示例写法：
+
+    本项目使用了 shop-kefu（作者：yiheweigui82）
+    项目地址：https://github.com/yiheweigui82/shop-kefu
+    许可：MIT
+
+────────────────────────────────────────
+第三方组件
+────────────────────────────────────────
+
+本项目在设计与实现上参考了以下开源工作，其版权归各自作者所有，
+并遵循其各自的许可（均为 MIT）：
+
+· JC0v0/Customer-Agent   —— 电商 AI 客服桌面应用（客服框架结构参考）
+  https://github.com/JC0v0/Customer-Agent
+
+· cv-cat/TaoBaoApis      —— 淘宝第三方 API 集成库 / AI 客服智能体底座
+  https://github.com/cv-cat/TaoBaoApis

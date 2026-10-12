@@ -1,0 +1,59 @@
+# ── 凭据与登录态（绝不可提交）────────────────────────
+config.json
+config.json.bak*
+*.env
+.env
+cookies*.txt
+*cookie*.json
+*.cookie
+taobao_cookie*
+
+# ── 本地数据库（含店铺/账号/知识数据）─────────────────
+*.db
+*.db-wal
+*.db-shm
+*.db.bak*
+*.sqlite
+*.sqlite3
+
+# ── 运行数据与日志 ─────────────────────────────────
+temp/
+logs/
+*.log
+*.log.*
+data/
+state/
+profiles/
+taobao_profile_*/
+pdd_profile_*/
+
+# ── Python ───────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── 构建产物 ─────────────────────────────────────
+dist/
+build/
+*.spec
+*.exe
+*.msi
+
+# ── 编辑器 / 系统 ─────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── 导出/抓包临时产物 ─────────────────────────────
+probe-out/
+export/
+*.har
+dump*
